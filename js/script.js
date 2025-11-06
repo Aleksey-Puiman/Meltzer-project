@@ -203,67 +203,67 @@ let stonesData = [
         id: 'stone-Agate',
         title: 'Агат',
         description: '<p>Агат — потрясающие эстетические и декоративные свойства агата обеспечивают широкое применение камня в облицовке любых поверхностей. Агат прекрасно сочетается в интерьере с деревом и металлом, стеклом и пластиком, он прочен и устойчив к царапинам.</p>',
-        images: ['/img/stones/Agate.png', '/img/stones/Agate_stone.png'],
+        images: ['img/stones/Agate.png', 'img/stones/Agate_stone.png'],
     },
     {
         id: 'stone-Granite',
         title: 'Гранит',
         description: '<p>Гранит – красивый и прочный природный камень, который является идеальным выбором для создания стильных интерьеров и экстерьеров. Его уникальные текстуры и оттенки делают каждую поверхность уникальной и неповторимой. Благодаря своей прочности и стойкости к внешним воздействиям, гранит является идеальным материалом для полов, столешниц, фасадов и других элементов декора.</p>',
-        images: ['/img/stones/Granite.jpg', '/img/stones/Granite_stone.png'],
+        images: ['img/stones/Granite.jpg', 'img/stones/Granite_stone.png'],
     },
     {
         id: 'stone-Artificial-rock',
         title: 'Искусственный камень',
         description: '<p>Искусственный камень — считается идеальным материалом для отделки. Он сохраняет в себе преимущества натурального камня, за ним легко ухаживать: он не впитывает влагу и отличается повышенной прочностью.</p>',
-        images: ['/img/stones/Artificial-rock.jpg', '/img/stones/Artificial-rock_stone.png'],
+        images: ['img/stones/Artificial-rock.jpg', 'img/stones/Artificial-rock_stone.png'],
     },
     {
         id: 'stone-Quartz-agglomerate',
         title: 'Кварцевый агломерат',
         description: '<p>Кварцевый агломерат – это инновационный материал, используемый в строительстве и дизайне интерьера. Он состоит из натурального кварца, смешанного с смолой и пигментами, что делает его прочным, стойким к царапинам и пятнам, а также гигиеничным. Данный камень не впитывает влагу и не требует ухода, он не токсичный и безвредный – все это выделяет его на фоне полностью натуральных минералов. Кварцевые агломераты отличаются широкой палитрой цветов и текстур, которые позволяют создавать уникальные и стильные интерьеры.</p>',
-        images: ['/img/stones/Quartz-agglomerate.jpg', '/img/stones/Quartz-agglomerate_stone.png'],
+        images: ['img/stones/Quartz-agglomerate.jpg', 'img/stones/Quartz-agglomerate_stone.png'],
     },
     {
         id: 'stone-Quartzite',
         title: 'Кварцит',
         description: '<p>Кварцит — это метаморфическая порода горного камня, образованная при превращении кварца под воздействием высоких температур и давления. Он обладает высокой прочностью и износостойкостью, поэтому широко используется в строительстве и отделке. Кварцит имеет красивую текстуру и разнообразные оттенки, что делает его популярным материалом для создания декоративных элементов и плитки. Также он часто используется в производстве столешниц, подоконников и фасадов.</p>',
-        images: ['/img/stones/Quartzite.jpg', '/img/stones/Quartzite_stone.png'],
+        images: ['img/stones/Quartzite.jpg', 'img/stones/Quartzite_stone.png'],
     },
     {
         id: 'stone-Labradorite',
         title: 'Лабрадорит',
         description: '<p>Лабрадорит – завораживающий драгоценный камень, известный своей переливающейся игрой цветов. Неудивительно, что лабрадорит с его великолепными оттенками от синего и зеленого до желтого и оранжевого пользуется большим спросом среди ценителей роскошных и премиальных интерьеров.</p>',
-        images: ['/img/stones/Labradorite.jpg', '/img/stones/Labradorite_stone.png'],
+        images: ['img/stones/Labradorite.jpg', 'img/stones/Labradorite_stone.png'],
     },
     {
         id: 'stone-Marble',
         title: 'Мрамор',
         description: '<p>Мрамор – своей вечной элегантностью и красотой очаровывал людей на протяжении веков. Этот натуральный камень, отличающийся уникальными узорами и текстурами, использовался в искусстве, архитектуре и дизайне для придания роскоши любому пространству. Возможности использования мрамора безграничны: от полов и стен до мебели и аксессуаров. Он идеально подходит для создания стильного и изысканного облика вашего дома или офиса.</p>',
-        images: ['/img/stones/Marble.jpg', '/img/stones/Marble_stone.png'],
+        images: ['img/stones/Marble.jpg', 'img/stones/Marble_stone.png'],
     },
     {
         id: 'stone-Onyx',
         title: 'Оникс',
         description: '<p>Оникс – это удивительный минерал, который привлекает внимание своими плоскопараллельными окрашенными слоями и уникальными узорами. Чаще всего оникс имеет коричневый цвет с белыми и черными узорами. Однако можно также встретить красно-коричневые, коричнево-желтые, медовые, белые с желтоватыми или розоватыми прослоями. Комбинация этих цветов создает прекрасные и уникальные узоры, делая каждый камень уникальным произведением природы.</p>',
-        images: ['/img/stones/Onyx.jpg', '/img/stones/Onyx_stone.png'],
+        images: ['img/stones/Onyx.jpg', 'img/stones/Onyx_stone.png'],
     },
     {
         id: 'stone-Slate',
         title: 'Сланец',
         description: '<p>Сланец – представляет собой осадочную горную породу, образовавшуюся в результате скопления ила и органических веществ. Он имеет слоистую структуру и часто встречается в районах древних озер и океанов. Сланец широко используется в строительстве, как для облицовки домов, так и создания неповторимых рельефов на стенах в интерьере.</p>',
-        images: ['/img/stones/Slate.jpg', '/img/stones/Slate_stone.png'],
+        images: ['img/stones/Slate.jpg', 'img/stones/Slate_stone.png'],
     },
     {
         id: 'stone-Supstone',
         title: 'Соупстоун',
         description: '<p>Соупстоун – это натуральный минерал, который получил свое название из-за своей нежной и гладкой текстуры, наподобие мыла. Мыльный камень не только прекрасно выглядит, но и обладает функциональными свойствами. Он служит отличным материалом для облицовки стен, производства раковин и столешниц.</p>',
-        images: ['/img/stones/Supstone.jpg', '/img/stones/Supstone_stone.png'],
+        images: ['img/stones/Supstone.jpg', 'img/stones/Supstone_stone.png'],
     },
     {
         id: 'stone-Travertine',
         title: 'Травертин',
         description: '<p>Травертин – это потрясающая осадочная порода образована минеральными источниками, оставляющими после себя уникальные узоры и цвета. От пола до столешницы травертин придает элегантность и спокойную роскошь любому пространству.</p>',
-        images: ['/img/stones/Travertine.jpg', '/img/stones/Travertine_stone.png'],
+        images: ['img/stones/Travertine.jpg', 'img/stones/Travertine_stone.png'],
     },
 ];
 
@@ -618,7 +618,7 @@ const reviews__slider = new Swiper('.reviews__slider', {
 let projects = [
     {
         id: 'bio-my-bio',
-        images: ['/img/projects/Bio-My-bio (1).png', '/img/projects/Bio-My-bio (6).png', '/img/projects/Bio-My-bio (2).png', '/img/projects/Bio-My-bio (3).png', '/img/projects/Bio-My-bio (4).png', '/img/projects/Bio-My-bio (5).png',],
+        images: ['img/projects/Bio-My-bio (1).png', 'img/projects/Bio-My-bio (6).png', 'img/projects/Bio-My-bio (2).png', 'img/projects/Bio-My-bio (3).png', 'img/projects/Bio-My-bio (4).png', 'img/projects/Bio-My-bio (5).png',],
         textSlide1: `<div>
             <h3>Ресторан BIO MY BIO</h3>
             <span>150 м2</span>
@@ -635,7 +635,7 @@ let projects = [
     },
     {
         id: 'NaviSpace',
-        images: ['/img/projects/NaviSpace (1).png', '/img/projects/NaviSpace (4).png', '/img/projects/NaviSpace (5).png', '/img/projects/NaviSpace (2).png', '/img/projects/NaviSpace (3).png',],
+        images: ['img/projects/NaviSpace (1).png', 'img/projects/NaviSpace (4).png', 'img/projects/NaviSpace (5).png', 'img/projects/NaviSpace (2).png', 'img/projects/NaviSpace (3).png',],
         textSlide1: `<div>
             <h3>Навигационное пространство NaviSpace</h3>
             <span>416 м2</span>
@@ -653,7 +653,7 @@ let projects = [
     },
     {
         id: 'Zoom',
-        images: ['/img/projects/Zoom-Hotel (1).png', '/img/projects/Zoom-Hotel (5).png', '/img/projects/Zoom-Hotel (4).png', '/img/projects/Zoom-Hotel (2).png', '/img/projects/Zoom-Hotel (3).png',],
+        images: ['img/projects/Zoom-Hotel (1).png', 'img/projects/Zoom-Hotel (5).png', 'img/projects/Zoom-Hotel (4).png', 'img/projects/Zoom-Hotel (2).png', 'img/projects/Zoom-Hotel (3).png',],
         textSlide1: `<div>
             <h3>Апарт-отель Best Western Zoom Hotel</h3>
             <span>750м2</span>
@@ -674,7 +674,7 @@ let projects = [
     },
     {
         id: 'Wine-House',
-        images: ['/img/projects/Wine-House (1).png', '/img/projects/Wine-House (5).png', '/img/projects/Wine-House (4).png', '/img/projects/Wine-House (2).png', '/img/projects/Wine-House (3).png',],
+        images: ['img/projects/Wine-House (1).png', 'img/projects/Wine-House (5).png', 'img/projects/Wine-House (4).png', 'img/projects/Wine-House (2).png', 'img/projects/Wine-House (3).png',],
         textSlide1: `<div>
             <h3>ЖК Wine House</h3>
             <span>70 м2</span>
@@ -691,7 +691,7 @@ let projects = [
     },
     {
         id: 'Cloud-Nine',
-        images: ['/img/projects/Cloud-Nine (1).png', '/img/projects/Cloud-Nine (2).png', '/img/projects/Cloud-Nine (3).png', '/img/projects/Cloud-Nine (4).png',],
+        images: ['img/projects/Cloud-Nine (1).png', 'img/projects/Cloud-Nine (2).png', 'img/projects/Cloud-Nine (3).png', 'img/projects/Cloud-Nine (4).png',],
         textSlide1: `<div>
             <h3>ЖК Cloud Nine</h3>
             <span>159 м2</span>
@@ -705,7 +705,7 @@ let projects = [
     },
     {
         id: 'Diamond-Club',
-        images: ['/img/projects/Diamond-Club (1).png', '/img/projects/Diamond-Club (2).png', '/img/projects/Diamond-Club (3).png', '/img/projects/Diamond-Club (4).png',],
+        images: ['img/projects/Diamond-Club (1).png', 'img/projects/Diamond-Club (2).png', 'img/projects/Diamond-Club (3).png', 'img/projects/Diamond-Club (4).png',],
         textSlide1: `<div>
             <h3>Diamond Club «Газпром арена»</h3>
             <span>1.700 м2</span>
@@ -724,7 +724,7 @@ let projects = [
     },
     {
         id: 'NОК',
-        images: ['/img/projects/NОК (1).png', '/img/projects/NОК (6).png', '/img/projects/NОК (2).png', '/img/projects/NОК (3).png', '/img/projects/NОК (4).png', '/img/projects/NОК (5).png',],
+        images: ['img/projects/NОК (1).png', 'img/projects/NОК (6).png', 'img/projects/NОК (2).png', 'img/projects/NОК (3).png', 'img/projects/NОК (4).png', 'img/projects/NОК (5).png',],
         textSlide1: `<div>
             <h3>Ресторан NОК</h3>
             <div class="flex-container">
@@ -740,7 +740,7 @@ let projects = [
     },
     {
         id: 'Ratusha-Page',
-        images: ['/img/projects/Ratusha-Page (1).png', '/img/projects/Ratusha-Page (2).png', '/img/projects/Ratusha-Page (4).png', '/img/projects/Ratusha-Page (3).png',],
+        images: ['img/projects/Ratusha-Page (1).png', 'img/projects/Ratusha-Page (2).png', 'img/projects/Ratusha-Page (4).png', 'img/projects/Ratusha-Page (3).png',],
         textSlide1: `<div>
             <h3>Коворкинг Ratusha Page</h3>
             <span>750м2</span>
@@ -758,7 +758,7 @@ let projects = [
     },
     {
         id: 'Cottage-village-Repino',
-        images: ['/img/projects/Cottage village-Repino (2).png', '/img/projects/Cottage village-Repino (1).png', '/img/projects/Cottage village-Repino (7).png', '/img/projects/Cottage village-Repino (6).png', '/img/projects/Cottage village-Repino (3).png', '/img/projects/Cottage village-Repino (4).png', '/img/projects/Cottage village-Repino (5).png',],
+        images: ['img/projects/Cottage village-Repino (2).png', 'img/projects/Cottage village-Repino (1).png', 'img/projects/Cottage village-Repino (7).png', 'img/projects/Cottage village-Repino (6).png', 'img/projects/Cottage village-Repino (3).png', 'img/projects/Cottage village-Repino (4).png', 'img/projects/Cottage village-Repino (5).png',],
         textSlide1: `<div>
             <h3>Коттеджный поселок Репино</h3>
             <span>360 м2</span>
@@ -776,7 +776,7 @@ let projects = [
     },
     {
         id: 'Cottage-village-Gruzino',
-        images: ['/img/projects/Cottage village-Gruzino (1).png', '/img/projects/Cottage village-Gruzino (8).png', '/img/projects/Cottage village-Gruzino (2).png', '/img/projects/Cottage village-Gruzino (3).png', '/img/projects/Cottage village-Gruzino (4).png', '/img/projects/Cottage village-Gruzino (5).png', '/img/projects/Cottage village-Gruzino (6).png', '/img/projects/Cottage village-Gruzino (7).png',],
+        images: ['img/projects/Cottage village-Gruzino (1).png', 'img/projects/Cottage village-Gruzino (8).png', 'img/projects/Cottage village-Gruzino (2).png', 'img/projects/Cottage village-Gruzino (3).png', 'img/projects/Cottage village-Gruzino (4).png', 'img/projects/Cottage village-Gruzino (5).png', 'img/projects/Cottage village-Gruzino (6).png', 'img/projects/Cottage village-Gruzino (7).png',],
         textSlide1: `<div>
             <h3>Коттеджный поселок Грузино</h3>
             <div class="flex-container">
@@ -789,7 +789,7 @@ let projects = [
     },
     {
         id: 'Putilov-Avenir',
-        images: ['/img/projects/Putilov-AVENIR (1).png', '/img/projects/Putilov-AVENIR (6).png', '/img/projects/Putilov-AVENIR (2).png', '/img/projects/Putilov-AVENIR (3).png', '/img/projects/Putilov-AVENIR (4).png', '/img/projects/Putilov-AVENIR (5).png',],
+        images: ['img/projects/Putilov-AVENIR (1).png', 'img/projects/Putilov-AVENIR (6).png', 'img/projects/Putilov-AVENIR (2).png', 'img/projects/Putilov-AVENIR (3).png', 'img/projects/Putilov-AVENIR (4).png', 'img/projects/Putilov-AVENIR (5).png',],
         textSlide1: `<div>
             <h3>Апарт-отель Putilov AVENIR</h3>
             <span>336 апартаментов</span>
@@ -806,7 +806,7 @@ let projects = [
     },
     {
         id: 'Sosnovka',
-        images: ['/img/projects/Sosnovka (1).png', '/img/projects/Sosnovka (7).png', '/img/projects/Sosnovka (2).png', '/img/projects/Sosnovka (3).png', '/img/projects/Sosnovka (4).png', '/img/projects/Sosnovka (5).png', '/img/projects/Sosnovka (6).png',],
+        images: ['img/projects/Sosnovka (1).png', 'img/projects/Sosnovka (7).png', 'img/projects/Sosnovka (2).png', 'img/projects/Sosnovka (3).png', 'img/projects/Sosnovka (4).png', 'img/projects/Sosnovka (5).png', 'img/projects/Sosnovka (6).png',],
         textSlide1: `<div>
             <h3>ЖК Сосновка</h3>
             <span>50 м2</span>
@@ -822,7 +822,7 @@ let projects = [
     },
     {
         id: 'Neva-Towers',
-        images: ['/img/projects/Neva-Towers (1).png', '/img/projects/Neva-Towers (5).png', '/img/projects/Neva-Towers (6).png', '/img/projects/Neva-Towers (2).png', '/img/projects/Neva-Towers (3).png', '/img/projects/Neva-Towers (4).png',],
+        images: ['img/projects/Neva-Towers (1).png', 'img/projects/Neva-Towers (5).png', 'img/projects/Neva-Towers (6).png', 'img/projects/Neva-Towers (2).png', 'img/projects/Neva-Towers (3).png', 'img/projects/Neva-Towers (4).png',],
         textSlide1: `<div>
             <h3>ЖК Neva Towers</h3>
             <div class="flex-container">
@@ -834,7 +834,7 @@ let projects = [
     },
     {
         id: 'Kirovsky-Avenir',
-        images: ['/img/projects/Kirovsky-AVENIR (1).png', '/img/projects/Kirovsky-AVENIR (5).png', '/img/projects/Kirovsky-AVENIR (4).png', '/img/projects/Kirovsky-AVENIR (2).png', '/img/projects/Kirovsky-AVENIR (3).png',],
+        images: ['img/projects/Kirovsky-AVENIR (1).png', 'img/projects/Kirovsky-AVENIR (5).png', 'img/projects/Kirovsky-AVENIR (4).png', 'img/projects/Kirovsky-AVENIR (2).png', 'img/projects/Kirovsky-AVENIR (3).png',],
         textSlide1: `<div>
             <h3>Апарт-отель Kirovsky AVENIR</h3>
             <span>473 апартамента</span>
@@ -852,7 +852,7 @@ let projects = [
     },
     {
         id: 'Yard-Residence',
-        images: ['/img/projects/Yard-Residence (1).png', '/img/projects/Yard-Residence (3).png', '/img/projects/Yard-Residence (2).png', '/img/projects/Yard-Residence (4).png', '/img/projects/Yard-Residence (5).png',],
+        images: ['img/projects/Yard-Residence (1).png', 'img/projects/Yard-Residence (3).png', 'img/projects/Yard-Residence (2).png', 'img/projects/Yard-Residence (4).png', 'img/projects/Yard-Residence (5).png',],
         textSlide1: `<div>
             <h3>Апарт-отель Yard Residence</h3>
             <span>22.000 м2 / 486 апартаментов</span>
@@ -868,7 +868,7 @@ let projects = [
     },
     {
         id: 'Russian-Seasons',
-        images: ['/img/projects/Russian-Seasons (1).png', '/img/projects/Russian-Seasons (5).png', '/img/projects/Russian-Seasons (2).png', '/img/projects/Russian-Seasons (3).png', '/img/projects/Russian-Seasons (4).png',],
+        images: ['img/projects/Russian-Seasons (1).png', 'img/projects/Russian-Seasons (5).png', 'img/projects/Russian-Seasons (2).png', 'img/projects/Russian-Seasons (3).png', 'img/projects/Russian-Seasons (4).png',],
         textSlide1: `<div>
             <h3>ЖК Русские сезоны</h3>
             <span>84 м2</span>

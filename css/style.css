@@ -196,7 +196,7 @@ p:first-child {
   right: 0;
   width: 20px;
   height: 17px;
-  background: url(/img/link-item.svg) no-repeat;
+  background: url(../img/link-item.svg) no-repeat;
 }
 
 .text__subtitle {
@@ -311,7 +311,7 @@ p:first-child {
     right: 0;
     width: 10px;
     height: 9px;
-    background: url(/img/link-item.svg) no-repeat 50% 50% / cover;
+    background: url(../img/link-item.svg) no-repeat 50% 50% / cover;
   }
 }
 
@@ -379,11 +379,11 @@ li::before {
   position: absolute;
   top: 0;
   left: 0;
-  background: url(/img/list-item-black.svg) no-repeat 50% 50%;
+  background: url(../img/list-item-black.svg) no-repeat 50% 50%;
 }
 
 .text__decoration_white li::before {
-  background: url(/img/list-item-white.svg) no-repeat 50% 50%;
+  background: url(../img/list-item-white.svg) no-repeat 50% 50%;
 }
 
 @media (max-width:600px) {
@@ -1077,7 +1077,7 @@ section {
 /*--------- Майнскрин -----------*/
 
 .mainscreen {
-  background: url(/img/Mainscrenn.jpg) no-repeat 50% 50%/cover;
+  background: url(../img/Mainscrenn.jpg) no-repeat 50% 50%/cover;
   width: 100%;
   height: 100vh;
   position: relative;
@@ -1123,7 +1123,7 @@ section {
 /*--------- Задать вопросы -----------*/
 
 .ask-questions__body {
-  background: url(/img/Background_Question.jpg) no-repeat 50% 0%/cover;
+  background: url(../img/Background_Question.jpg) no-repeat 50% 0%/cover;
 }
 
 .ask-questions__flex {
@@ -1418,7 +1418,7 @@ section {
 
 .about-us-two {
   position: relative;
-  background: url(/img/About_us_5.jpg) no-repeat 50% 50%/cover;
+  background: url(../img/About_us_5.jpg) no-repeat 50% 50%/cover;
   padding: 100px 0;
 }
 
