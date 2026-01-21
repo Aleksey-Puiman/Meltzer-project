@@ -1,4 +1,4 @@
-"use strick"
+"use strict"
 
 // --- Логика работы бургер-меню ---
 let hiddenMenu = document.querySelector(".hidden-menu");
